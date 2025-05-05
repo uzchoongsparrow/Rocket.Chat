@@ -433,7 +433,7 @@
 		"swiper": "patch:swiper@npm%3A11.1.14#~/.yarn/patches/swiper-npm-11.1.14-8126fa478a.patch",
 		"textarea-caret": "^3.1.0",
 		"tinykeys": "^1.4.0",
-		"twilio": "^3.84.1",
+		"twilio": "^5.6.0",
 		"twit": "^2.2.11",
 		"typia": "~6.12.2",
 		"ua-parser-js": "^1.0.39",
